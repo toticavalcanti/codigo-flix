@@ -1,0 +1,129 @@
+{
+  "categorias": [
+    {
+      "titulo": "Golang para Web",
+      "link": "https://www.codigofluente.com.br/programacao-web/go-para-web/",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "aula - 01 - Criando uma aplicação web com Golang",
+          "url": "https://youtu.be/BILx7JaaKyQ"
+        },
+        {
+          "titulo": "aula 02 - Gorilla mux",
+          "url": "https://youtu.be/1iVFDlIUIvU"
+        },
+        {
+          "titulo": "Aula 03 - HTML Templates",
+          "url": "https://youtu.be/5U0L4jUrjns?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        },
+        {
+          "titulo": "Aula 04 - Redis",
+          "url": "https://youtu.be/hUyjp5AS8pE?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        },
+        {
+          "titulo": "Aula 05 - Formulário para comentários",
+          "url": "https://youtu.be/HgVytoC8LVQ?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        },
+        {
+          "titulo": "Aula 06 - Arquivos Estáticos",
+          "url": "https://youtu.be/dayCC6DxMAY?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        },
+        {
+          "titulo": "Aula 07 - Sessões",
+          "url": "https://youtu.be/qXAmvHFefA0?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        },
+        {
+          "titulo": "Aula 08 - Senhas Encriptadas com Hashing",
+          "url": "https://youtu.be/Jekgt7lngII?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        }, 
+        {
+          "titulo": "Aula 09 - Tratamento de erros",
+          "url": "https://youtu.be/H-8sLGr0On8?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        },
+        {
+          "titulo": "Aula 10 - Middleware",
+          "url": "https://youtu.be/_GSuQl6YiQI?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
+        }    
+      ]
+    },
+    {
+      "titulo": "Django - Criando um ecommerce completo",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "01 - ecommerce - Django / Bootstrap",
+          "url": "https://youtu.be/z_MMsWyLdj0?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
+        },
+        {
+          "titulo": "02 - ecommerce - Django / Bootstrap",
+          "url": "https://youtu.be/K5qsv2gyDi4?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
+        },
+        {
+          "titulo": "03 - ecommerce - Django / Bootstrap",
+          "url": "https://youtu.be/3GUHIiXAJJY?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
+        },
+        {
+          "titulo": "04 - ecommerce - Django / Bootstrap",
+          "url": "https://youtu.be/wXEtwVmDoXw?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
+        },
+        {
+          "titulo": "05 - ecommerce - Django / Bootstrap - Formulário de Login e Registro de usuário",
+          "url": "https://youtu.be/bYBo9ivhV9g?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
+        }, 
+        {
+          "titulo": "06 - ecommerce - Django / Bootstrap - Arquivos estáticos - Static files",
+          "url": "https://youtu.be/tOxZ-tMHCSY?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
+        }
+      ]
+    },
+    {
+      "titulo": "Ciência de dados, Aprendizado de máquina e Inteligência artificial",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Aula 01 - Python e scikit-learn",
+          "url": "https://youtu.be/8735giisOXE?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
+        },
+        {
+          "titulo": "02 - Python e scikit-learn - Instalando o scikit learn",
+          "url": "https://youtu.be/AYdWeAKjPic?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
+        },
+        {
+          "titulo": "03 - Python e scikit-learn - Instalando e plotando gráficos com matplotlib",
+          "url": "https://youtu.be/zixtS4gNUEc?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
+        },
+        {
+          "titulo": "04 - Python e scikit-learn - Instalando o Pandas",
+          "url": "https://youtu.be/tdX5E_UvSFI?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
+        },
+        {
+          "titulo": "05 - Python e scikit-learn - Tutorial Pandas na Prática",
+          "url": "https://youtu.be/WeJdsq4fzjI?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
+        }
+      ]
+    },
+    {
+      "titulo": "Complexidade de Algoritmos",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "02 - Complexidade de Algoritmos - Notação assintótica - Código Fluente",
+          "url": "https://youtu.be/kZUukVzuKEw?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
+        },
+        {
+          "titulo": "Aula 03 – Complexidade de fibonacci recursiva simples",
+          "url": "https://youtu.be/jZQshUHAq3g?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
+        },
+        {
+          "titulo": "Aula 04 - Complexidade de Fibonacci com Programação Dinâmica",
+          "url": "https://youtu.be/7R5S24XCFYM?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
+        },
+        {
+          "titulo": "Aula 05 - Complexidade de Fibonacci O(n) iterativa e O(1) pela fórmula",
+          "url": "https://youtu.be/GBRx4V5PsP8?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
+        }
+      ]
+    }
+  ]
+}
