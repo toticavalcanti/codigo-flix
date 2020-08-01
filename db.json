@@ -1,0 +1,47 @@
+{
+  "categorias": [
+      {
+        "id": 1,
+        "nome": "Golang para Web",
+        "descricao": "Construindo um projeto web de mensagens com Golang e Redis",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Código Fluente - Tutorial - Projeto web com Golang e redis",
+          "url": "https://www.codigofluente.com.br/programacao-web/go-para-web/"
+        }
+    },
+
+    {
+      "id": 2,
+      "nome": "Django - Criando um ecommerce completo",
+      "descricao": "Construindo um ecommerce completo com Django e bootstrap",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Código Fluente - Tutorial - Construindo uma loja virtual completa com Django",
+        "url": "https://www.codigofluente.com.br/algoritmo-linguagem-de-programacao/django/loja-virtual-ecommerce/"
+      }
+    },
+
+    {
+      "id": 3,
+      "nome": "Ciência de dados e Inteligência artificial",
+      "descricao": "Conhecendo o scikit-learn, Pandas, Matplotlib, ...",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Código Fluente - Tutorial - Scikit-learn",
+        "url": "https://www.codigofluente.com.br/big-data/aprendizado-de-maquina-machine-learning/python-com-scikit-learn/"
+      }
+    },
+
+    {
+      "id": 3,
+      "nome": "Complexidade de algoritmos",
+      "descricao": "Análise de complexidade de algoritmos para verificar a sua eficiência.",
+      "cor": "#9cd28b",
+      "link_extra": {
+        "text": "Código Fluente - Tutorial - Complexidade de algoritmos",
+        "url": "https://www.codigofluente.com.br/algoritmo-linguagem-de-programacao/complexidade-de-algoritmo/"
+      }
+    }
+  ]
+}
