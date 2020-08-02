@@ -30,9 +30,7 @@ function CadastroCategoria() {
   }
 
   useEffects(() => {
-    const URL = window.location.hostname.includes('localhost')
-      ? 'http://localhost:8081/categorias'
-      : 'https://codigo-fluente-flix.herokuapp.com/categorias';
+    const URL = 'https://codigo-fluente-flix.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
