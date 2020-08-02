@@ -1,5 +1,5 @@
 /* eslint-disable linebreak-style */
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffects } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
@@ -29,21 +29,17 @@ function CadastroCategoria() {
     );
   }
 
-  // ============
-
-  useEffect(() => {
-    if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias';
-      fetch(URL)
-        .then(async (respostaDoServer) => {
-          if (respostaDoServer.ok) {
-            const resposta = await respostaDoServer.json();
-            setCategorias(resposta);
-            return;
-          }
-          throw new Error('Não foi possível pegar os dados');
-        });
-    }
+  useEffects(() => {
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8081/categorias'
+      : 'https://codigo-fluente-flix.herokuapp.com/categorias';
+    fetch(URL)
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
+        setCategorias([
+          ...resposta,
+        ]);
+      });
   }, []);
 
   return (
@@ -72,7 +68,7 @@ function CadastroCategoria() {
         />
 
         <FormField
-          label="Descrição"
+          label="Descrição:"
           type="textarea"
           name="descricao"
           value={values.descricao}
