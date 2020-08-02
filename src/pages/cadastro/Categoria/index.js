@@ -32,19 +32,17 @@ function CadastroCategoria() {
   // ============
 
   useEffect(() => {
-    if (window.location.href.includes('localhost')) {
-      const URL = 'https://codigo-fluente-flix.herokuapp.com/categorias';
+      const URL = window.location.hostname.includes('localhost')
+      ? 'localhost:8081' 
+      : 'https://codigo-fluente-flix.herokuapp.com/categorias';
       fetch(URL)
-        .then(async (respostaDoServer) => {
-          if (respostaDoServer.ok) {
-            const resposta = await respostaDoServer.json();
-            setCategorias(resposta);
-            return;
-          }
-          throw new Error('Não foi possível pegar os dados');
+        .then(async(respostaDoServidor) => {
+          const resposta = await respostaDoServidor.json();
+          setCategorias([
+            ...resposta,
+          ]);
         });
-    }
-  }, []);
+ 
 
   return (
     <PageDefault>
