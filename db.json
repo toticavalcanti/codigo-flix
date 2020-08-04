@@ -58,133 +58,133 @@
       "url": "https://youtu.be/5U0L4jUrjns?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 5,
+      "id": 4,
       "categoriaId": 1,
       "titulo": "Aula 05 - Formulário para comentários",
       "url": "https://youtu.be/HgVytoC8LVQ?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 6,
+      "id": 5,
       "categoriaId": 1,
       "titulo": "Aula 06 - Arquivos Estáticos",
       "url": "https://youtu.be/dayCC6DxMAY?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 7,
+      "id": 6,
       "categoriaId": 1,
       "titulo": "Aula 07 - Sessões",
       "url": "https://youtu.be/qXAmvHFefA0?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 8,
+      "id": 7,
       "categoriaId": 1,
       "titulo": "Aula 08 - Senhas Encriptadas com Hashing",
       "url": "https://youtu.be/Jekgt7lngII?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 9,
+      "id": 8,
       "categoriaId": 1,
       "titulo": "Aula 09 - Tratamento de erros",
       "url": "https://youtu.be/H-8sLGr0On8?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 10,
+      "id": 9,
       "categoriaId": 1,
       "titulo": "Aula 10 - Middleware",
       "url": "https://youtu.be/_GSuQl6YiQI?list=PLeFetwYAi-F_KNfucQaHoxGD8fq5I3w-g"
     },
     {
-      "id": 11,
+      "id": 10,
       "categoriaId": 2,
       "titulo": "01 - ecommerce - Django / Bootstrap",
       "url": "https://youtu.be/z_MMsWyLdj0?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
     },
     {
-      "id": 12,
+      "id": 11,
       "categoriaId": 2,
       "titulo": "02 - ecommerce - Django / Bootstrap",
       "url": "https://youtu.be/K5qsv2gyDi4?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
     },
     {
-      "id": 13,
+      "id": 12,
       "categoriaId": 2,
       "titulo": "03 - ecommerce - Django / Bootstrap",
       "url": "https://youtu.be/3GUHIiXAJJY?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
     },
     {
-      "id": 14,
+      "id": 13,
       "categoriaId": 2,
       "titulo": "04 - ecommerce - Django / Bootstrap",
       "url": "https://youtu.be/wXEtwVmDoXw?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
     },
     {
-      "id": 15,
+      "id": 14,
       "categoriaId": 2,
       "titulo": "05 - ecommerce - Django / Bootstrap - Formulário de Login e Registro de usuário",
       "url": "https://youtu.be/bYBo9ivhV9g?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
     },
     {
-      "id": 16,
+      "id": 15,
       "categoriaId": 2,
       "titulo": "06 - ecommerce - Django / Bootstrap - Arquivos estáticos - Static files",
       "url": "https://youtu.be/tOxZ-tMHCSY?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI"
     },
     {
-      "id": 17,
+      "id": 16,
       "categoriaId": 3,
       "titulo": "Aula 01 - Python e scikit-learn",
       "url": "https://youtu.be/8735giisOXE?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
     },
     {
-      "id": 18,
+      "id": 17,
       "categoriaId": 3,
       "titulo": "02 - Python e scikit-learn - Instalando o scikit learn",
       "url": "https://youtu.be/AYdWeAKjPic?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
     },
     {
-      "id": 19,
+      "id": 18,
       "categoriaId": 3,
       "titulo": "03 - Python e scikit-learn - Instalando e plotando gráficos com matplotlib",
       "url": "https://youtu.be/zixtS4gNUEc?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
     },
     {
-      "id": 20,
+      "id": 19,
       "categoriaId": 3,
       "titulo": "04 - Python e scikit-learn - Instalando o Pandas",
       "url": "https://youtu.be/tdX5E_UvSFI?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
     },
     {
-      "id": 21,
+      "id": 20,
       "categoriaId": 3,
       "titulo": "05 - Python e scikit-learn - Tutorial Pandas na Prática",
       "url": "https://youtu.be/WeJdsq4fzjI?list=PLeFetwYAi-F9Z0N3ZSjPL2i24PO5iiXaY"
     },
     {
-      "id": 22,
+      "id": 21,
       "categoriaId": 4,
       "titulo": "01 - Complexidade de Algoritmos - Notação assintótica - Código Fluente",
       "url": "https://www.youtube.com/watch?v=TDefuwNrnMY&list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l&index=1"
     },
     {
-      "id": 23,
+      "id": 22,
       "categoriaId": 4,
       "titulo": "02 - Complexidade de Algoritmos - Notação assintótica - Código Fluente",
       "url": "https://youtu.be/kZUukVzuKEw?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
     },
     {
-      "id": 24,
+      "id": 23,
       "categoriaId": 4,
       "titulo": "Aula 03 – Complexidade de fibonacci recursiva simples",
       "url": "https://youtu.be/jZQshUHAq3g?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
     },
     {
-      "id": 25,
+      "id": 24,
       "categoriaId": 4,
       "titulo": "Aula 04 - Complexidade de Fibonacci com Programação Dinâmica",
       "url": "https://youtu.be/7R5S24XCFYM?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
     },
     {
-      "id": 26,
+      "id": 25,
       "categoriaId": 4,
       "titulo": "Aula 05 - Complexidade de Fibonacci O(n) iterativa e O(1) pela fórmula",
       "url": "https://youtu.be/GBRx4V5PsP8?list=PLeFetwYAi-F988hA1fKLp0zI-wtdYu83l"
